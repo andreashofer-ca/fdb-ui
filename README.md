@@ -1,6 +1,5 @@
 # fdb-ui : Repository for Omnichannel Banking UI
 
-[![Pull Request Review](https://github.com/Division-Banking/fdb-ui/actions/workflows/pr-review.yaml/badge.svg)](https://github.com/Division-Banking/fdb-ui/actions/workflows/pr-review.yaml)&emsp;[![Build & Deploy](https://github.com/Division-Banking/fdb-ui/actions/workflows/build-main.yaml/badge.svg)](https://github.com/Division-Banking/fdb-ui/actions/workflows/build-main.yaml)&emsp;[![QA Build & Deploy](https://github.com/Division-Banking/fdb-ui/actions/workflows/qa-deploy.yaml/badge.svg?branch=main)](https://github.com/Division-Banking/fdb-ui/actions/workflows/qa-deploy.yaml)&emsp;[![Mirror to SAP Github](https://github.com/Division-Banking/fdb-ui/actions/workflows/mirror-to-sap.yaml/badge.svg?branch=main)](https://github.com/Division-Banking/fdb-ui/actions/workflows/mirror-to-sap.yaml)
 
 ## To setup FDB-UI on local environment please follow below steps:
 ### Prerequisite:
